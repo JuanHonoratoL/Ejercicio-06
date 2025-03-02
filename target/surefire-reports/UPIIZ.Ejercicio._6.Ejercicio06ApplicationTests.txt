@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: UPIIZ.Ejercicio._6.Ejercicio06ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.288 s -- in UPIIZ.Ejercicio._6.Ejercicio06ApplicationTests
